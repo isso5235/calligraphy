@@ -4,7 +4,7 @@
 
 canvas {
   border: 3px solid black;
-  /* cursor: url("fude_996_80.png"), none; */
+  cursor: url("https://isso5235.github.io/calligraphy/fude_996_80.png") 0 60, auto;
 }
 
 .Paint {
@@ -13,7 +13,6 @@ canvas {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 8px;
-  cursor: url("https://isso5235.github.io/calligraphy/src/fude_996_80.png") 0 60;
 }
 
 .Title {

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/calligraphy/static/css/main.5c122eb4.css",
+    "main.css": "/calligraphy/static/css/main.8ea112c6.css",
     "main.js": "/calligraphy/static/js/main.cf65c6fd.js",
     "static/js/787.cfeced10.chunk.js": "/calligraphy/static/js/787.cfeced10.chunk.js",
     "index.html": "/calligraphy/index.html",
-    "main.5c122eb4.css.map": "/calligraphy/static/css/main.5c122eb4.css.map",
+    "main.8ea112c6.css.map": "/calligraphy/static/css/main.8ea112c6.css.map",
     "main.cf65c6fd.js.map": "/calligraphy/static/js/main.cf65c6fd.js.map",
     "787.cfeced10.chunk.js.map": "/calligraphy/static/js/787.cfeced10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c122eb4.css",
+    "static/css/main.8ea112c6.css",
     "static/js/main.cf65c6fd.js"
   ]
 }
