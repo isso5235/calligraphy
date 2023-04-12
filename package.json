@@ -16,7 +16,7 @@
   "scripts": {
     "deploy": "npm run build && gh-pages -d build -m \"Updates --skip-ci\"",
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "cross-env PUBLIC_URL=/calligraphy react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "rm": "rm -rf docs",
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "cross-env": "^7.0.3",
     "gh-pages": "^5.0.0"
   }
 }
